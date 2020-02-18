@@ -1,3 +1,2 @@
-Site de l'association : Tracteur en Weppes
--bootstrap -site vitrine
---Viewport Sized Typography ( vw, vh,vmin,vmax)
+Site de l'association : Tracteur en Weppes <br/>
+-bootstrap -site vitrine                    

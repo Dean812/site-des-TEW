@@ -14,16 +14,16 @@
         <a class="nav-link" href="index.php">Accueil</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Programme</a>
+        <a class="nav-link" href="programme.php">Programme</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">L'association</a>
+        <a class="nav-link" href="association.php">L'association</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Gallerie</a>
+        <a class="nav-link" href="gallerie.php">Gallerie</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Média</a>
+        <a class="nav-link" href="media.php">Média</a>
       </li>
     </ul>
   </div>
