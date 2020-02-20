@@ -13,9 +13,90 @@
 <header>
   <?php include('repeat/header.php');  ?>
 </header>    
-<main id="page" class="association">
+<main id="page" class="association mb-4">
   <div class="mx-auto m-3 mb-5" style="width: 90%;">
-    <h2 class="text-center text-success"><ins>Changer titre de l'association</ins></h2>
+    <h2 class="text-center text-success"><ins>L'association "Les tracteurs en Weppes"</ins></h2>
+  </div>
+  <div class="container-fluid">
+
+    <div class="row">  <!-- row 1 -->
+      <div class="col-sm-4">
+        <div class="card">
+          <img class="card-img-top" src="img/association/membres.jpg" alt="Card image cap">
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <div class="card text-white bg-success mb-3 h-100" >
+          <div class="card-header">Membres</div>
+          <div class="card-body">
+            <h5 class="card-title">Qui sommes nous ?</h5>
+            <p class="card-text">Bande de copains qui s'amuse en restaurant le patrimoine des tracteurs et le partager via la fête.</p>
+          </div>
+        </div>
+      </div> 
+      <div class="col-sm-4">
+        <div class="card">
+          <img class="card-img-top" src="img/association/machine_agri.jpg" alt="Card image cap">
+        </div>
+      </div>
+    </div>
+
+    <div class="row">  <!-- row 2 -->
+
+      <div class="col-sm-4">
+        <div class="card text-white bg-success mb-3 h-100" >
+          <div class="card-header">Membres</div>
+          <div class="card-body">
+            <h5 class="card-title">Qui sommes nous ?</h5>
+            <p class="card-text">Bande de copains qui s'amuse en restaurant le patrimoine des tracteurs et le partager via la fête.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-4">
+        <div class="card">
+          <img class="card-img-top" src="img/association/locomotion.jpg" alt="Card image cap">
+        </div>
+      </div>
+
+      <div class="col-sm-4">
+        <div class="card text-white bg-success mb-3 h-100" >
+          <div class="card-header">Membres</div>
+          <div class="card-body">
+            <h5 class="card-title">Qui sommes nous ?</h5>
+            <p class="card-text">Bande de copains qui s'amuse en restaurant le patrimoine des tracteurs et le partager via la fête.</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="row">  <!-- row 3 -->
+
+      <div class="col-sm-4">
+        <div class="card">
+          <img class="card-img-top" src="img/association/boulanger.jpg" alt="Card image cap">
+        </div>
+      </div>
+
+      <div class="col-sm-4">
+        <div class="card text-white bg-success mb-3 h-100" >
+          <div class="card-header">Membres</div>
+          <div class="card-body">
+            <h5 class="card-title">Qui sommes nous ?</h5>
+            <p class="card-text">Bande de copains qui s'amuse en restaurant le patrimoine des tracteurs et le partager via la fête.</p>
+          </div>
+        </div>
+      </div> 
+
+      <div class="col-sm-4">
+        <div class="card">
+          <img class="card-img-top" src="img/association/cheval.jpg" alt="Card image cap">
+        </div>
+      </div>
+
+    </div>
+
   </div>
 </main>
 <footer>
