@@ -13,11 +13,10 @@
 <header>
   <?php include_once('repeat/header.php');  ?>
 </header>
-<main class="accueil">
-  <div class="mx-auto m-3" style="width: 90%;">
-    <h2 class="text-center text-success">Bienvenue sur le site de l'association : "Tracteurs en Weppes"</h2>
+<main id="page" class="accueil">
+  <div class="mx-auto m-3 mb-5" style="width: 90%;">
+    <h2 class="text-center text-success"><ins>Bienvenue sur le site de l'association : "Tracteurs en Weppes"</ins></h2>
   </div>
-
   <div class="container-fluid mt-1">
     <div class="row">
       <div class="col-sm">
@@ -62,7 +61,7 @@
       </div>
       </div>
       <div class="col-sm";>
-        <div class="embed-responsive embed-responsive-16by9 w-75 h-100"> <!-- instagram  -->
+        <div class="embed-responsive embed-responsive-16by9 w-100"> <!-- instagram  -->
           <?php include_once('repeat/ig.php');?>  
         </div> 
       </div>
@@ -71,17 +70,17 @@
     <!-- 2eme ligne   -->
     <div class="container-fluid p-5"> 
       <div class="card-deck">
-        <div class="card mr-0 ml-0 mb-0 programme">
+        <div class="card mr-0 ml-0 mb-0 programmes">
           <a href="programme.php">
             <img class="card-img-top" src="img/accueil/programme.jpg" alt="Tracteur">
           </a>  
         </div>
-        <div class="card mr-0 ml-0 mb-0 membre">
-          <a href="programme.php">
+        <div class="card mr-0 ml-0 mb-0 membres">
+          <a href="association.php">
             <img class="card-img-top" src="img/accueil/membres.jpg" alt="Membre">
           </a>  
         </div>
-        <div class="card mr-0 ml-0 media">
+        <div class="card mr-0 ml-0 medias">
           <a href="media.php">
             <img class="card-img-top" src="img/accueil/media.jpg" alt="Secondaire">
           </a>
@@ -97,4 +96,5 @@
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 </body>
+<script src="js/main.js"></script>
 </html>
