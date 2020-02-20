@@ -54,7 +54,6 @@ ul {
     font-size: 1.5rem;
     padding-top: 0.6rem;
 }
-
 /*  Programme */
 .programme td, h3{
     text-align: center;
@@ -69,4 +68,13 @@ ul {
     border-radius: 10px;
     margin: 0 0 20px 0;
     padding: 10px 10px 0 10px ;
+}
+/*  Association */
+.association .row {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.association .col-sm-4 {
+    margin: inherit;
+    padding: inherit;
 }

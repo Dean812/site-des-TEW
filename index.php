@@ -61,7 +61,7 @@
       </div>
       </div>
       <div class="col-sm";>
-        <div class="embed-responsive embed-responsive-16by9 w-100"> <!-- instagram  -->
+        <div class="embed-responsive embed-responsive-16by9 w-100" style="height:550px"> <!-- instagram  -->
           <?php include_once('repeat/ig.php');?>  
         </div> 
       </div>
