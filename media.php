@@ -15,7 +15,7 @@
 </header>    
 <main id="page" class="media">
 <div class="mx-auto m-3  mb-5" style="width: 90%;">
-    <h2 class="text-center text-success"><ins>Changer titre des média</ins></h2>
+    <h2 class="text-center text-success"><ins>Notre présence sur les médias</ins></h2>
   </div>
 </main>
 <footer>
