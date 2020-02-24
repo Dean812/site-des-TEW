@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr" dir="ltr">
 <head>
-<title>TEW - Tracteur en Weppes - Accueil</title>
+<title>TEW - Tracteur en Weppes - Gallerie</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- BOOTSTRAP 4  -->

@@ -35,19 +35,19 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="img/Carrousel-home/img1.jpg" class="d-block w-100" alt="Tracteur1">
+            <img src="img/accueil/carrousel-home/img1.jpg" class="d-block w-100" alt="Tracteur1">
           </div>
           <div class="carousel-item">
-            <img src="img/Carrousel-home/img2.jpg" class="d-block w-100" alt="Vieille machine">
+            <img src="img/accueil/carrousel-home/img2.jpg" class="d-block w-100" alt="Vieille machine">
           </div>
           <div class="carousel-item">
-            <img src="img/Carrousel-home/img3.jpg" class="d-block w-100" alt="Tracteur2">
+            <img src="img/accueil/carrousel-home/img3.jpg" class="d-block w-100" alt="Tracteur2">
           </div>
           <div class="carousel-item">
-            <img src="img/Carrousel-home/img4.jpg" class="d-block w-100" alt="Attelage">
+            <img src="img/accueil/carrousel-home/img4.jpg" class="d-block w-100" alt="Attelage">
           </div>
           <div class="carousel-item">
-            <img src="img/Carrousel-home/img5.jpg" class="d-block w-100" alt="Boutique">
+            <img src="img/accueil/carrousel-home/img5.jpg" class="d-block w-100" alt="Boutique">
           </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

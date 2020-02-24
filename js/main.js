@@ -1,3 +1,4 @@
+'use strict';
 /* Gestion du navbar - active */
 var page1 = $( "#page" ).hasClass( "accueil" );
 var page2 = $( "#page" ).hasClass( "programme" );

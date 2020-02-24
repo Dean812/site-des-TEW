@@ -9,11 +9,9 @@ ul {
 }
 /*  ------------- MAIN -------------  */
 /*  toute page - titre */
-.accueil h2, .programme h2, .association h2, .gallerie h2, .media h2 {
+.accueil h2, .programme h2, .association h2, .gallerie h2, .lesmedia h2 {
     font-size: 3vmax;
 }
-/*  Accueil - premiere ligne */
-
 /*  Accueil - deuxieme ligne */
 .accueil .card::before {
     background: rgba(90, 90, 90, 0.8);
@@ -54,7 +52,7 @@ ul {
     font-size: 1.5rem;
     padding-top: 0.6rem;
 }
-/*  Programme */
+/* ----- PROGRAMME ----- */
 .programme td, h3{
     text-align: center;
 }
@@ -69,7 +67,7 @@ ul {
     margin: 0 0 20px 0;
     padding: 10px 10px 0 10px ;
 }
-/*  Association */
+/* ----- ASSOCIATION ----- */
 .association .row {
     margin: 0 !important;
     padding: 0 !important;
@@ -78,7 +76,7 @@ ul {
     margin: inherit;
     padding: inherit;
 }
-/*  Gallerie */
+/* ----- GALLERIE ----- */
 /* Système de scroll horizontal */
 .gallerie .scrollmenu {
     overflow: auto;
@@ -86,19 +84,43 @@ ul {
     border: 2px solid green;
     border-radius: 20px;
     text-align: center;
-  }
-  .gallerie .scrollmenu a {
+}
+.gallerie .scrollmenu a {
     display: inline-block;
     padding: 14px;
     text-decoration: none;
-    font-size: 1.5rem;;
-  }
-  .gallerie .scrollmenu a:hover {
+    font-size: 1.5rem;
+}
+.gallerie .scrollmenu a:hover {
     background-color: #ffc107;
-  }
-  /* Gestion gallerie */
-  .gallerie .gall2019, .gallerie .gall2018 {
-      border: 2px solid green;
-      margin-bottom: 20px;
-      padding: 0 20px 20px 20px;
-  }
+}
+/* Gestion gallerie */
+.gallerie .gall2019, .gallerie .gall2018 {
+    border: 2px solid green;
+    margin-bottom: 20px;
+    padding: 0 20px 20px 20px;
+}
+/* ----- MEDIA ----- */
+.lesmedia .card {
+    width: 90vmin;
+}
+.lesmedia .h-scroll {
+    overflow: auto;
+    white-space: nowrap;
+}
+.lesmedia .h-scroll .card {
+    display: inline-block;
+}
+.lesmedia .card-header img {
+    width: 60px;  
+}
+.lesmedia .card-img-top {
+    width: 100%;
+}
+.lesmedia .card-footer {
+    display: flex;
+    align-items: baseline;
+}
+h5 {
+    word-break: break-all;
+}
